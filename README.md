@@ -1,4 +1,4 @@
-# MiQ-Work-Sample - CAMPAIGN ANALYSIS REPORT ANALYZED AND PREPARED BY ME FOR A MAJOR CLIENT DURING MY INTERNSHIP AT MIQ DIGITAL INDIA PVT LTD.
+# MiQ-Work-Sample - Campaign Analysis report analyzed and prepared by me for a major hotel based client during my internship at MiQ Digital India Pvt Ltd.
 
 While I was interning at MiQ Digital India Pvt Ltd, I was assigned to prepare a pre - campaign analysis report for one of their major clients (A1+ level client). This client is a well known popular Hotel Brand that is present all over the world.
 
